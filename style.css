@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(212, 45%, 89%)
+}
+
+div{
+    margin:  200px auto;
+    background-color: hsl(0, 0%, 100%);
+    width:230px;
+    border-radius: 10px;
+}
+
+img{ 
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+
+#t-01{
+    font-family:'Outfit', sans-serif;
+    width: 200px;
+    margin-left: 25px;
+    font-weight: 700;
+}
+
+#t-02{
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    width: 170px;
+    font-size: x-small;
+    margin-left: 25px;
+}
